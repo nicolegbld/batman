@@ -29,3 +29,7 @@ main div {
 #galeria {
     text-align: center;
 }
+
+.batman:hover {
+    transform: scale(1.2);
+}
